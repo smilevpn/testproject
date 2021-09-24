@@ -24,6 +24,14 @@ ul a {
   margin: 2% 20% 2% 20%;
 }
 
-li#aperv {
+#aperv {
   color: #f80763;
+}
+
+#avtor {
+  color: blue;
+}
+
+#atret {
+  color: coral;
 }
