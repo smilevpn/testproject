@@ -1,7 +1,29 @@
 * {
+  margin: 0;
+  padding: 0;
   color: green;
 }
 
 body {
   background-color: yellow;
+}
+
+h1 {
+  text-align: center;
+}
+
+span {
+  color: red;
+}
+
+ul a {
+  text-decoration: none;
+}
+
+.header {
+  margin: 2% 20% 2% 20%;
+}
+
+li#aperv {
+  color: #f80763;
 }
