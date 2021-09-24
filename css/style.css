@@ -1,10 +1,7 @@
-/* вставляем шрифты */
-@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre&display=swap');
-
 * {
   color: green;
-  font-family: Gemunu Libre;
 }
-span{
-  color: red;
+
+body {
+  background-color: yellow;
 }
